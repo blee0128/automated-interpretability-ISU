@@ -23,8 +23,8 @@ data folder:
     newdata.json: dataset that was process and created from data_process.py for openAI API input
 
 neuron-explainer:
-    - generate_and_score_explanation.ipynb: updated the file to get explanation from openAI for our dataset
-    - activations.py: added a function mod_load_neuron() to load neuron to the LLM
+- generate_and_score_explanation.ipynb: updated the file to get explanation from openAI for our dataset
+- activations.py: added a function mod_load_neuron() to load neuron to the LLM
 
 ## Project
 It reads data from sample [input](/automated-interpretability-ISU/data/newdata.json) file
