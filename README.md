@@ -37,7 +37,7 @@ This will provide explanation on the activation record.
 python3 data_process.py 0 0 filepath
 ```
 
-##OUTPUT EXAMPLE
+## OUTPUT EXAMPLE
 - explanation='programming code structures and logic conditions.'
 - explanation=‘code snippets or programming instructions related to appending, setting or returning values.’
 
